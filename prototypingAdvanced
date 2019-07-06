@@ -1,0 +1,16 @@
+1. Two modules coordinate between each other twords solution (the lens, the camera)
+    a. OR Camera is in standby until lens is "installed"
+    b. shot is always a med
+    c. 
+2. The lens:
+    a. has control over focal length, f-stop, filters
+    b. solution determined by camers make/model, target DOF and target dist.
+3. the camera:
+    a. has control over ISO, shutter speed, WB, EV comp, log profile
+    b. camera make/model is determined by serial number
+
+RULES (for constraints x y z, solution is a b c)
+The Lens:
+
+
+The Camera:
